@@ -259,7 +259,7 @@ padding : 20px
     - space-between, space-around
 
     
-,
+
 - flex item(자식요소)
 
   - flex-grow
